@@ -1,0 +1,3 @@
+/Users/chesterzed/Projects/s21/my_own/C7_BrickGame_v1.0-1/cmake-build-debug/CMakeFiles/C7_BrickGame_v1_0_1.dir
+/Users/chesterzed/Projects/s21/my_own/C7_BrickGame_v1.0-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chesterzed/Projects/s21/my_own/C7_BrickGame_v1.0-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

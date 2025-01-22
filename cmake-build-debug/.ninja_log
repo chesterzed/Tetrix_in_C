@@ -1,0 +1,11 @@
+# ninja log v5
+2	238	1715151293571724264	CMakeFiles/C7_BrickGame_v1_0_1.dir/src/brick_game/tetris/fsm.c.o	64cd604b887e59bd
+2	235	1715151293567672621	CMakeFiles/C7_BrickGame_v1_0_1.dir/src/gui/cli/frontend.c.o	b4ca66ee295e2833
+2	235	1715151293567036805	CMakeFiles/C7_BrickGame_v1_0_1.dir/src/brick_game/tetris/tetris.c.o	a0238fc5fc329269
+1	235	1715151293568674100	CMakeFiles/C7_BrickGame_v1_0_1.dir/src/brick_game/tetris/backend.c.o	4767bfb4a4e3529c
+9	82	1715152958245006055	build.ninja	1f05e0ab64c0b1a
+1	68	1715107692228799897	CMakeFiles/C7_BrickGame_v1_0_1.dir/src/brick_game/tetris/consts_n_structs.c.o	d515c30c9b0a9c89
+1	51	1715158233920204274	CMakeFiles/C7_BrickGame_v1_0_1.dir/src/brick_game/tetris/tetris.c.o	a0238fc5fc329269
+1	52	1715158233920200149	CMakeFiles/C7_BrickGame_v1_0_1.dir/src/gui/cli/frontend.c.o	b4ca66ee295e2833
+0	52	1715158233922445951	CMakeFiles/C7_BrickGame_v1_0_1.dir/src/brick_game/tetris/backend.c.o	4767bfb4a4e3529c
+1	58	1715158233928563490	CMakeFiles/C7_BrickGame_v1_0_1.dir/src/brick_game/tetris/fsm.c.o	64cd604b887e59bd
